@@ -43,8 +43,8 @@ Progresivní webová aplikace (PWA) postavená v Reactu. Projekt zaměřený na 
 
 ## Statistiky
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miroslav-Novotny64&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miroslav-Novotny64&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Miroslav-Novotny64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miroslav-Novotny64&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="180" />
 </div>
 
 ---
