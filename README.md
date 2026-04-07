@@ -6,7 +6,7 @@ Zaměřuji se na vývoj komplexních webových aplikací v ekosystému React a N
 
 ## Úspěchy a vzdělávání
 
-* **FIKS (Fiťácký informatický korespondenční seminář):** Úspěšný řešitel 12. ročníku (90.5 bodů). Soutěž pořádaná FIT ČVUT zaměřená na algoritmizaci a logické myšlení.
+* **FIKS (Fiťácký informatický korespondenční seminář):** Úspěšný řešitel 12. ročníku (100.5 bodů). Soutěž pořádaná FIT ČVUT zaměřená na algoritmizaci a logické myšlení.
 * **Maturita 2026:** Aktuálně dokončuji studium na SOŠ Educanet Praha se zaměřením na informační technologie.
 
 ---
